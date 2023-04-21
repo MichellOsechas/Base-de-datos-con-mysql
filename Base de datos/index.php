@@ -11,6 +11,11 @@ include'controller\head.php';
 <?php
 include'view\formulario.php';
 ?>
+<div class="col-md-6">
+                <div class="row">
+                <?php include 'servicios.php';?>
+                </div> 
+            </div>
 </body>
 
 <?php
